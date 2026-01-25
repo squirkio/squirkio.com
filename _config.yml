@@ -6,6 +6,9 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://squirkio.com" # the base hostname & protocol for your site
 twitter_username: slimbods
 github_username: squirkio
+bluesky_username: squirkio
+linkedIn_username: simonquirk
+threads_username: slimbos
 
 # Build settings
 theme: jekyll-theme-hacker
