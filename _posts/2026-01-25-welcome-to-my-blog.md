@@ -2,12 +2,14 @@
 layout: post
 title: "Welcome to My Blog"
 date: 2026-01-25
-excerpt: "This is your first blog post. Edit or delete it to get started with your blog!"
+excerpt: "Intro to the blog, what I'm messing with, and what I'm trying to do"
 ---
 
-Welcome to your new Jekyll blog! This is your first post. You can edit or delete it to get started.
+Welcome travellers, real or robotic. I have it in mind to post things for me that might be useful for you too. I like reccomending things, so I just know that'll be a big part of what goes here. I will try to share what I'm learning too in case it's helpful and things I've found funny too. 
 
-## How to create new posts
+The home page has links to my socials, if you want to engage, please go there.
+
+<!-- ## How to create new posts
 
 1. Create a new file in the `_posts` folder
 2. Name it using the format: `YYYY-MM-DD-title-of-post.md`
@@ -31,4 +33,4 @@ That's it! Jekyll will automatically:
 - Build your blog listing page
 - Format your posts with the post layout
 
-Happy blogging!
+Happy blogging! -->
