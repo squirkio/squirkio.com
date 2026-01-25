@@ -10,7 +10,7 @@ Synthy post pop banger, nice driving bass throughout with some stingy lyrics wit
 [Listen on Spotify](https://open.spotify.com/track/1MCsJBk8H4ku4v6PNqi0P4?si=57c0e399ce364d2c)
 
 
-[alt text](https://f4.bcbits.com/img/a3413595461_10.jpg "Real Tree Lee")
+![alt text](https://f4.bcbits.com/img/a3413595461_10.jpg "Real Tree Lee")
 
 <!-- ## How to create new posts
 
