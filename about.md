@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-# About
+# About Simon Quirk
 
-This is the about page. Edit this file to add information about yourself.
+CTO, Runner, Biker, Gamer, Manx.. Capable of great guile and cunning when in pursuit of pies. Stuff that distracts me:
+- Video & Board Games
+- Lifting weights
+- Running
+- Motorbikes (T120!)
+- Bass 
+- Sci-fi
+- Technology
+- Music
 
-You can use **Markdown** to format your content:
-- Bold text with `**text**`
-- *Italic text* with `*text*`
-- [Links](https://example.com)
-- And much more!
