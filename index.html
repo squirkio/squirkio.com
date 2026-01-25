@@ -2,14 +2,16 @@
 layout: default
 title: Home
 ---
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Squirkio Holding</title>
-</head>
-<body>
-    <h1>Hello, new World!</h1>
-</body>
-</html>
+
+<h1>Hello, World!</h1>
+<p>Welcome to {{ site.title }}.</p>
+
+<p>This is your home page. You can edit this file to add your own content.</p>
+
+<h2>Quick Links</h2>
+<ul>
+  <li><a href="{{ site.baseurl }}blog">Read my blog</a></li>
+  <li><a href="{{ site.baseurl }}about">Learn about me</a></li>
+  <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+  <li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
+</ul>

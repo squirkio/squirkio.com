@@ -1,0 +1,10 @@
+<nav class="site-nav">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}" class="nav-logo">{{ site.title }}</a>
+    <ul class="nav-menu">
+      <li><a href="{{ site.baseurl }}" {% if page.title == 'Home' %}class="active"{% endif %}>Home</a></li>
+      <li><a href="{{ site.baseurl }}blog" {% if page.url contains 'blog' %}class="active"{% endif %}>Blog</a></li>
+      <li><a href="{{ site.baseurl }}about" {% if page.title == 'About' %}class="active"{% endif %}>About</a></li>
+    </ul>
+  </div>
+</nav>
