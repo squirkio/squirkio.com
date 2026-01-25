@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "Welcome to My Blog"
+title: "Reccomendatron: Adult DVD - Real Tree Lee"
 date: 2026-01-25
-excerpt: "First Reccomendatron: Adult DVD - Real Tree Lee"
+excerpt: "First Reccomendatron is the new single from Adult DVD - Real Tree Lee"
 ---
 
 Synthy post pop banger, nice driving bass throughout with some stingy lyrics with a subject matter close to my heart - spending so much time on the internet and believing all kinds of muck and turning into a bit of a nob as a result. The analog synths sound amazing and it's a real smart mix of retro electronics paired with modern indie pop vibes. 
 
-https://open.spotify.com/track/1MCsJBk8H4ku4v6PNqi0P4?si=57c0e399ce364d2c
-
+[Listen on Spotify](https://open.spotify.com/track/1MCsJBk8H4ku4v6PNqi0P4?si=57c0e399ce364d2c)
 
 <!-- ## How to create new posts
 
