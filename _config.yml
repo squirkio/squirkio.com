@@ -8,6 +8,6 @@ twitter_username: slimbods
 github_username: squirkio
 
 # Build settings
-theme: jekyll-theme-minima
+theme: jekyll-theme-hacker
 markdown: kramdown
 permalink: /:year/:title/
