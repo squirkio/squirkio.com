@@ -1,0 +1,13 @@
+# Site settings
+title: squirkio's page
+description: >- # this means to ignore newlines until "baseurl:"
+  A home page for squirkio
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://squirkio.com" # the base hostname & protocol for your site
+twitter_username: slimbods
+github_username: squirkio
+
+# Build settings
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: /:year/:title/
