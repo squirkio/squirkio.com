@@ -11,9 +11,6 @@ bluesky_username: squirkio.com
 linkedIn_username: simonquirk
 threads_username: slimbos
 # Build settings
-# theme: jekyll-theme-hacker
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-slate
 markdown: kramdown
 permalink: /:year/:title/
