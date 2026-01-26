@@ -1,8 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import url("https://cdn.jsdelivr.net/gh/pages-themes/hacker@v0.2.0/assets/css/style.css");
 
+/* Custom overrides */
 .main-content {
     max-width: 800px;
     margin: 2rem auto;
