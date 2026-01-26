@@ -1,5 +1,7 @@
-/* Custom overrides for jekyll-theme-hacker */
-/* Only override what you need, let the theme handle the rest */
+---
+---
+
+@import "{{ site.theme }}";
 
 .main-content {
     max-width: 800px;
